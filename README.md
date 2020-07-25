@@ -5,7 +5,7 @@
   <samp>
     I'm VishaL. 
     <br>
-    A full stack Web Developer from Uttar Pradesh, India.
+    A full stack Web Developer from India.
   </samp>
 </p>
 <hr>

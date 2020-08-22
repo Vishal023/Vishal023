@@ -11,7 +11,7 @@
 <hr>
 <link rel="import" href="https://github.com/Vishal023">
 
-![](https://komarev.com/ghpvc/?username=Vishal023&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Vishal023&color=red)
 
 
 <!--

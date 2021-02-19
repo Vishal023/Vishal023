@@ -1,16 +1,11 @@
 ![](assets/waves.svg)
-
-
 # Hey, 👋 I'm Vishal
-
-
 
 <h1>A Competitive Coder and a Full Stack Web Developer</h1>
 <h2>Pursuing my Bachelor's from Lovely Professional University</h2>    
 <h3>🇮🇳</h3>
 
 ![](assets/india.svg)
-
 
 <h2 style="font-family:Consolas">CHECKOUT MY BLOGS</h2>
 
@@ -31,5 +26,4 @@
 <br/>
 
 # It always seems impossible until it's done.
-
-![](assets/down.svg)
+![](assets/waves.svg)

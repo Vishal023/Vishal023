@@ -2,8 +2,6 @@
 
 ## A Competitive Coder and a Full Stack Web Developer
 
-### It always seems impossible until it's done.
-
 ### Pursuing my Bachelor's from Lovely Professional University
 ### ![](assets/india.svg) 🇮🇳
 

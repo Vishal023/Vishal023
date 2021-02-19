@@ -1,10 +1,11 @@
 # Hey, 👋 I'm Vishal
 
-<h1>A Competitive Coder and a Full Stack Web Developer</h1>
-<h2>Pursuing my Bachelor's from Lovely Professional University</h2>    
-<h3>🇮🇳</h3>
+## A Competitive Coder and a Full Stack Web Developer
 
-![](assets/india.svg)
+### It always seems impossible until it's done.
+
+### Pursuing my Bachelor's from Lovely Professional University
+### ![](assets/india.svg) 🇮🇳
 
 <h2 style="font-family:Consolas">CHECKOUT MY BLOGS</h2>
 
@@ -24,4 +25,3 @@
 ![](https://komarev.com/ghpvc/?username=Vishal023&color=e23e57&label=V++I++S++I++T++O++R++S++)
 <br/>
 
-# It always seems impossible until it's done.

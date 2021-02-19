@@ -1,4 +1,3 @@
-![](assets/waves.svg)
 # Hey, 👋 I'm Vishal
 
 <h1>A Competitive Coder and a Full Stack Web Developer</h1>
@@ -26,4 +25,3 @@
 <br/>
 
 # It always seems impossible until it's done.
-![](assets/waves.svg)

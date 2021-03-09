@@ -2,8 +2,6 @@
 
 ## A Competitive Coder and a Full Stack Web Developer
 
-### Pursuing my Bachelor's from Lovely Professional University
-
 <h2 style="font-family:Consolas">GET IN TOUCH</h2>
 
 [![](assets/linkedin.svg)](https://www.linkedin.com/in/vishalsingh-/)

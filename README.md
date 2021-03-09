@@ -1,8 +1,8 @@
 # Hey, 👋 I'm Vishal
 
-## A Competitive Coder and a Full Stack Web Developer
+### A Competitive Coder and a Full Stack Web Developer
 
-<h2 style="font-family:Consolas">GET IN TOUCH</h2>
+### GET IN TOUCH
 
 [![](assets/linkedin.svg)](https://www.linkedin.com/in/vishalsingh-/)
 [![](assets/twitter.svg)](https://twitter.com/Vishal_kld)

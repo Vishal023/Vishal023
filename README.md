@@ -3,11 +3,6 @@
 ## A Competitive Coder and a Full Stack Web Developer
 
 ### Pursuing my Bachelor's from Lovely Professional University
-### ![](assets/india.svg) 🇮🇳
-
-<h2 style="font-family:Consolas">CHECKOUT MY BLOGS</h2>
-
-[![](assets/blogs.svg)](http://findinthecookbook.com/)
 
 <h2 style="font-family:Consolas">GET IN TOUCH</h2>
 

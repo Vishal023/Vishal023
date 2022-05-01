@@ -1,6 +1,6 @@
 # Hey, 👋 I'm Vishal
 
-### A Competitive Coder and a Full Stack Web Developer
+### A Competitive Coder and a MERN Stack Web Developer
 
 ### GET IN TOUCH
 

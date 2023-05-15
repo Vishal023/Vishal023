@@ -1,19 +1,10 @@
-## Hey, 👋 I'm Vishal
+## Hello there! 👋 I'm Vishal Singh
 
-#### A Competitive Coder and a MERN Stack Web Developer
+### Software Engineer | Full Stack Developer
 
-#### Get In touch
+<!-- [![Website](https://img.shields.io/badge/-Visit_My_Website-4285F4?logo=google-chrome&logoColor=white&labelColor=4285F4)](https://vishal.thetechnician.in/)
+ -->
+ 
+[![LinkedIn](https://img.shields.io/badge/-Connect_with_me-blue?logo=linkedin&logoColor=white&labelColor=0d47a1)](https://www.linkedin.com/in/vishalsingh-/)
 
-[![](assets/linkedin.svg)](https://www.linkedin.com/in/vishalsingh-/)
-[![](assets/twitter.svg)](https://twitter.com/Vishal_kld)
-[![](assets/facebook.svg)](https://www.facebook.com/vishal.kld/)
-[![](assets/instagram.svg)](https://www.instagram.com/vishalsingh023/)
-<!---
-[![](assets/globe.svg)](https://vishal.thetechnician.in/)
---->
-
-<link rel="import" href="https://github.com/Vishal023">
-
-![](https://komarev.com/ghpvc/?username=Vishal023&color=e23e57&label=V++I++S++I++T++O++R++S++)
-<br/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Vishal023&color=e23e57&label=Profile+Views)
